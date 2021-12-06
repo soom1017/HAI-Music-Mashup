@@ -1,0 +1,10 @@
+**/assets
+**/build
+
+**/Runner
+**/Runner.**
+
+*.lock
+*.iml
+
+*.DS_Store
